@@ -8,7 +8,7 @@ To run the project:
 
 ##images 
 Images used were generated from https://robohash.org/ You are free to embed under the terms of the CC-BY license.
-=Robohash is a easy web service that makes it easy to provide unique, robot/alien/monster/whatever images for any text.
+=Robohash is a easy web service that makes it easy to provide unique, robot/alien/monster/whatever images for any text
 
 ##screenshot.
 
