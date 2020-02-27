@@ -14,4 +14,4 @@ Images used were generated from https://robohash.org/ You are free to embed unde
 
 ![get in image](../master/robofriends.JPG)
 
-![get in image](../master/robofriends2.JPG)
+![get in image](../master/robofriends2.JPG).
